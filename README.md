@@ -1,1 +1,1 @@
-# Hangman-game-1-in-JS
+# Paint Program -in-JS
